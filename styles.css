@@ -2,6 +2,29 @@
     width: 500px;
     height: 500px;
     display: grid;
+    margin-left: 725px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
+.choicebtn {
+    
+    margin-left: 865px;
+    margin-bottom: 10px;
+}
+
+.size {
+    
+    margin-left: 920px;
+}
+
+.resetbtn {
+    display: flex;
+    margin-left: 935px;
+
+}
+
+h1 {
+    margin-left: 700px;
+}
